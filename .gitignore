@@ -1,0 +1,5 @@
+# Visual Studio user state and generated files
+.vs/
+*.vcxproj.user
+/景区观光车双向循环调度模拟/bin/
+/景区观光车双向循环调度模拟/obj/
